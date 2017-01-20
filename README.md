@@ -1,7 +1,5 @@
 # Miniflow: a recreation of the core functionality of tensorflow #
 
-![alt tag](./sdc.gif)
-
 ## Overview ##
 Create layers, sigmoid activation nodes, forward prop, backward prop, and Stochastic Gradient Descent implementations. Much of the starter code given via Udacity's Self-driving Car nanodegree. I implemented key pieces for each of the above-mentioned pieces.
 
